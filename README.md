@@ -1,4 +1,4 @@
 # apanacollege-demo
 this is my first Git Repository
 <br>
-Author - ABCD 
+Author - ABCD (EFG COLLEGE)
